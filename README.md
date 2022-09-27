@@ -8,7 +8,7 @@ Dataset used: olivetti faces
 <img src="https://github.com/indranarendra/Image-compression-using-Principal-Component-Analysis./blob/main/results1.png">
 
 # Canny edge detection on Gaussian smoothed image
-<img src="https://github.com/indranarendra/Image-compression-using-Principal-Component-Analysis./blob/main/results2.png.png">
+<img src="https://github.com/indranarendra/Image-compression-using-Principal-Component-Analysis./blob/main/results2.png">
 
 # Canny edge detection on the bilateral filtered image
 <img src="https://github.com/indranarendra/Image-compression-using-Principal-Component-Analysis./blob/main/results3.png">
